@@ -1,4 +1,4 @@
 
 .DS_Store
 temp/data1.txt
-*.txt
+temp/*.txt
