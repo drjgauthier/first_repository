@@ -7,3 +7,5 @@ Some more changes.
 A change to add to a remote repository.
 
 A change to send to a local repository.
+
+Another change to local repository
